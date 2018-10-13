@@ -12668,11 +12668,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\Projetos\\DotNet\\CursoUdemyRestfulAspNetCore\\RestfulAspNetCore\\RestfulAspNetCore\\RestfulAspNetCore.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Projetos\\DotNet\\CursoUdemyRestfulAspNetCore\\RestfulAspNetCore - 01 Calculadora\\RestfulAspNetCore\\RestfulAspNetCore.csproj",
       "projectName": "RestfulAspNetCore",
-      "projectPath": "C:\\Users\\lucas\\Projetos\\DotNet\\CursoUdemyRestfulAspNetCore\\RestfulAspNetCore\\RestfulAspNetCore\\RestfulAspNetCore.csproj",
+      "projectPath": "C:\\Users\\lucas\\Projetos\\DotNet\\CursoUdemyRestfulAspNetCore\\RestfulAspNetCore - 01 Calculadora\\RestfulAspNetCore\\RestfulAspNetCore.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\Projetos\\DotNet\\CursoUdemyRestfulAspNetCore\\RestfulAspNetCore\\RestfulAspNetCore\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\Projetos\\DotNet\\CursoUdemyRestfulAspNetCore\\RestfulAspNetCore - 01 Calculadora\\RestfulAspNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

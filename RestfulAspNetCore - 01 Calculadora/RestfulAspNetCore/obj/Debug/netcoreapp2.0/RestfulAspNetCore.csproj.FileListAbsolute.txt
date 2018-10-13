@@ -9,3 +9,14 @@ C:\Users\lucas\Projetos\DotNet\CursoUdemyRestfulAspNetCore\RestfulAspNetCore\Res
 C:\Users\lucas\Projetos\DotNet\CursoUdemyRestfulAspNetCore\RestfulAspNetCore\RestfulAspNetCore\obj\Debug\netcoreapp2.0\RestfulAspNetCore.AssemblyInfo.cs
 C:\Users\lucas\Projetos\DotNet\CursoUdemyRestfulAspNetCore\RestfulAspNetCore\RestfulAspNetCore\obj\Debug\netcoreapp2.0\RestfulAspNetCore.dll
 C:\Users\lucas\Projetos\DotNet\CursoUdemyRestfulAspNetCore\RestfulAspNetCore\RestfulAspNetCore\obj\Debug\netcoreapp2.0\RestfulAspNetCore.pdb
+C:\Users\lucas\Projetos\DotNet\CursoUdemyRestfulAspNetCore\RestfulAspNetCore - 01 Calculadora\RestfulAspNetCore\bin\Debug\netcoreapp2.0\RestfulAspNetCore.deps.json
+C:\Users\lucas\Projetos\DotNet\CursoUdemyRestfulAspNetCore\RestfulAspNetCore - 01 Calculadora\RestfulAspNetCore\bin\Debug\netcoreapp2.0\RestfulAspNetCore.runtimeconfig.json
+C:\Users\lucas\Projetos\DotNet\CursoUdemyRestfulAspNetCore\RestfulAspNetCore - 01 Calculadora\RestfulAspNetCore\bin\Debug\netcoreapp2.0\RestfulAspNetCore.runtimeconfig.dev.json
+C:\Users\lucas\Projetos\DotNet\CursoUdemyRestfulAspNetCore\RestfulAspNetCore - 01 Calculadora\RestfulAspNetCore\bin\Debug\netcoreapp2.0\RestfulAspNetCore.dll
+C:\Users\lucas\Projetos\DotNet\CursoUdemyRestfulAspNetCore\RestfulAspNetCore - 01 Calculadora\RestfulAspNetCore\bin\Debug\netcoreapp2.0\RestfulAspNetCore.pdb
+C:\Users\lucas\Projetos\DotNet\CursoUdemyRestfulAspNetCore\RestfulAspNetCore - 01 Calculadora\RestfulAspNetCore\obj\Debug\netcoreapp2.0\RestfulAspNetCore.csprojAssemblyReference.cache
+C:\Users\lucas\Projetos\DotNet\CursoUdemyRestfulAspNetCore\RestfulAspNetCore - 01 Calculadora\RestfulAspNetCore\obj\Debug\netcoreapp2.0\RestfulAspNetCore.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Projetos\DotNet\CursoUdemyRestfulAspNetCore\RestfulAspNetCore - 01 Calculadora\RestfulAspNetCore\obj\Debug\netcoreapp2.0\RestfulAspNetCore.AssemblyInfoInputs.cache
+C:\Users\lucas\Projetos\DotNet\CursoUdemyRestfulAspNetCore\RestfulAspNetCore - 01 Calculadora\RestfulAspNetCore\obj\Debug\netcoreapp2.0\RestfulAspNetCore.AssemblyInfo.cs
+C:\Users\lucas\Projetos\DotNet\CursoUdemyRestfulAspNetCore\RestfulAspNetCore - 01 Calculadora\RestfulAspNetCore\obj\Debug\netcoreapp2.0\RestfulAspNetCore.dll
+C:\Users\lucas\Projetos\DotNet\CursoUdemyRestfulAspNetCore\RestfulAspNetCore - 01 Calculadora\RestfulAspNetCore\obj\Debug\netcoreapp2.0\RestfulAspNetCore.pdb
