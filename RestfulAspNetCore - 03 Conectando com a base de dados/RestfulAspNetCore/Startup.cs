@@ -4,10 +4,12 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using RestfulAspNetCore.Model.Context;
 using RestfulAspNetCore.Services;
 using RestfulAspNetCore.Services.Implementacoes;
 
@@ -15,16 +17,19 @@ namespace RestfulAspNetCore
 {
     public class Startup
     {
+        public IConfiguration Configuration { get; }
+
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
         }
 
-        public IConfiguration Configuration { get; }
-
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            // Pega a Connection String no arquivo appsettings.json
+            var conexao = Configuration["MySqlConnection:MySqlConnectionString"];
+            services.AddDbContext<MySqlContext>(opcoes => opcoes.UseMySql(conexao));
             services.AddMvc();
 
             // Injeção de dependência
