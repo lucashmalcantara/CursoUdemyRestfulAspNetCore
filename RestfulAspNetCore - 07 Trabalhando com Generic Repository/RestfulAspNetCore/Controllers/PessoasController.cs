@@ -55,7 +55,7 @@ namespace RestfulAspNetCore.Controllers
 
             var pessoaAtualizada = _pessoaService.Atualizar(pessoa);
 
-            if (pessoa == null) return NoContent();
+            if (pessoaAtualizada == null) return NoContent();
 
             return new ObjectResult(pessoaAtualizada);
         }
