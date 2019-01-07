@@ -12,7 +12,6 @@ using Microsoft.Extensions.Options;
 using RestfulAspNetCore.Model.Context;
 using RestfulAspNetCore.Repositories;
 using RestfulAspNetCore.Repositories.Generics;
-using RestfulAspNetCore.Repositories.Implementacoes;
 using RestfulAspNetCore.Services;
 using RestfulAspNetCore.Services.Implementacoes;
 
@@ -49,8 +48,6 @@ namespace RestfulAspNetCore
             // Injeção de dependência
             services.AddScoped<IPessoaService, PessoaService>();
             services.AddScoped<ILivroService, LivroService>();
-
-            services.AddScoped<IPessoaRepository, PessoaRepository>();
             services.AddScoped(typeof(IRepository<>), typeof(GenericRepository<>));
         }
 
