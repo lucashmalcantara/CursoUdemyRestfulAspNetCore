@@ -1,0 +1,7 @@
+{
+  "Evolve.Driver": "MySQL.Data",
+  "Evolve.ConnectionString": "Server=testes-mysql.chxgqhgic9nu.us-east-1.rds.amazonaws.com;Port=3306;Database=restful_asp_net_core_udemy;Uid=root;Pwd=testes123;SslMode=none;",
+  "Evolve.Locations": "Db",
+  "Evolve.Command": "migrate",
+  "Evolve.Placeholder.table4": "table_4"
+}
